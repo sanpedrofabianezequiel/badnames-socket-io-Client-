@@ -1,6 +1,5 @@
 import React, {useContext, useState} from 'react';
 import { SocketContext } from '../context/SocketContext';
-import { useSocket } from '../hooks/useSocket';
 
 export const BandAdd = () => {
 
